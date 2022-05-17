@@ -1,0 +1,41 @@
+23/3
+34560/3467
+456780/12567
+1245680/5680
+124678/3456780 - fajne zanikanie i ramka
+2348/780 - piramidki
+1346780/1246780 - zanikanie i ma³a ramka
+0/1234568 - piramidki
+2/1234568 - ³adne randomowe kszta³ty
+4/1234568 - mruga i kszta³ty siê zmieniaj¹, plamy maj¹ kropki w œrodku, najlepiej widaæ na 20s
+256780/236 - fala
+13578/246780 - spróbuj dla jednego, ale meh
+120/12480 - powolna erozja, jaskinie
+1578/245670 - pojedyncze kropki formuj¹ kó³ka, wszystko zbiega do pulsuj¹cego labiryntu, w którym coœ siê rusza
+12456/28 - z szumu tworz¹ siê wyspy zrobione z poziomych i pionowych linii
+12456/281 - -||- ale z ukoœnymi liniami
+12456/287 - -||- d³u¿ej siê stabilizuje
+2380/3678 - bardzo aktywna pleœñ, glidery
+238/3678 - randomowe bardzo powolne rozrastanie siê z gliderami
+480/6780 - prostok¹t jak 0
+340/178 - kwadraciki
+0/1456780 - bardzo powolna stabilizacja pion+poziom
+46780/457 - zanikanie
+1234568/360 - ok wzór
+3458/347 - fajne rozwijanie siê
+578/12680 - ¿ycie rozwija siê od rogów
+356780/34 - potrzeba du¿o ¿ycia, ¿eby rozwinê³a siê pleœñ
+670/1456 - dla jednego potrafi robiæ ³adne kó³ka na podstawie kresek pion poziom i ramki siê próbuj¹ ogarn¹æ
+35678/25780 - w¹ska ramka dla ma³ej iloœci ¿ycia
+456780/4678 - zajebiste œcie¿ki
+23678/1245780 - ramki nagle siê zatrzymuj¹ i powoli przejmuj¹ kontrolê brute force
+256780/2480 - zanikanie
+1245670/123 - fajne wzorki przy ma³ej iloœci, czasem siê dzieje coœ funny
+123467/48 - randomowe górki, kamienie
+1456/12340
+123456/38
+160/23457 - szachownica
+80/6780 - ³adne
+1237/123560 - pojedyncze kropki zamieniaj¹ siê w kó³ka
+1234670/1780 - trójk¹ty
+35/267 - samolociki

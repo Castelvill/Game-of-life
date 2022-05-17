@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601225648 source:c:\users\gamer\desktop\game_of_life\main.cpp
+	<allegro.h>
+	<string>
+	<stdio.h>
+	<fstream>
+
+1652775982 source:d:\k¹cik programowanka\game_of_life\main.cpp
+	<allegro.h>
+	<string>
+	<stdio.h>
+	<fstream>
+
